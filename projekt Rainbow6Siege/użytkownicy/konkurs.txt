@@ -1,0 +1,4 @@
+Waither@gmail.com;def;Bank;
+Byialy@gmail.com;atak;Outback;
+Lorex@gmail.com;atak;Wieża;
+piggson@gmail.com;def;Outback;
